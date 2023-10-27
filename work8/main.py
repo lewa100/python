@@ -3,7 +3,7 @@ import os
 
 file1 = 'phone.txt'
 file2 = 'phonebook.csv'
-out = 'out.csv'
+
 input_target_text = 'Введите вариант:'
 input_row_number_text = 'Введите номер строки для копирования:'
 
